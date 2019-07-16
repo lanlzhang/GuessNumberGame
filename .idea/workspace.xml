@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="037bdf9b-1905-4bf7-9f37-91323cd56be7" name="Default Changelist" comment="" />
+    <list default="true" id="037bdf9b-1905-4bf7-9f37-91323cd56be7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GuessNumber/GenerateNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GuessNumber/GuessNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/GuessNumber/InputNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/GuessNumber/GenerateNumberTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/GuessNumber/GuessNumberTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/test/GuessNumber/InputNumberMock.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GenerateNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GuessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/InputNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/GenerateNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/GuessNumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/InputNumberMock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/GuessNumber/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/GuessNumber/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,17 +26,110 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="219" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/GuessNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1563241526211" expanded="true" signature="452:972" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="144">
+                <caret line="8" column="183" selection-start-line="8" selection-start-column="183" selection-end-line="8" selection-end-column="183" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GenerateNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/GenerateNumberTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/InputNumberMock.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+              <folding>
+                <element signature="e#133#134#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/GuessNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <folding>
+                <element signature="e#141#142#0" expanded="true" />
+                <element signature="e#182#183#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/InputNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/VerifyATest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="84" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="84" />
+            <state relative-caret-position="-7">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,41 +140,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/VerifyBTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="-7">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VerifyA.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VerifyB.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -80,6 +160,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -90,13 +175,23 @@
         <option value="$PROJECT_DIR$/test/VerifyTheNumberUserInput.java" />
         <option value="$PROJECT_DIR$/src/VerifyTheNumberUserInput.java" />
         <option value="$PROJECT_DIR$/test/VerifyTheNumberUserInputTest.java" />
-        <option value="$PROJECT_DIR$/test/GenerateNumberTest.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/VerifyA.java" />
         <option value="$PROJECT_DIR$/src/VerifyB.java" />
         <option value="$PROJECT_DIR$/test/VerifyATest.java" />
         <option value="$PROJECT_DIR$/test/VerifyBTest.java" />
+        <option value="$PROJECT_DIR$/src/GeneratorNumberRandom.java" />
+        <option value="$PROJECT_DIR$/test/GeneratorNumberRandomTest.java" />
+        <option value="$PROJECT_DIR$/src/GenerateNumber/GenerateNumber.java" />
+        <option value="$PROJECT_DIR$/src/GenerateNumber.java" />
+        <option value="$PROJECT_DIR$/test/GenerateNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/GuessNumber/GuessNumber.java" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/test/GuessNumberTest.java" />
+        <option value="$PROJECT_DIR$/test/InputNumberMock.java" />
+        <option value="$PROJECT_DIR$/src/InputNumber.java" />
+        <option value="$PROJECT_DIR$/src/GuessNumber.java" />
       </list>
     </option>
   </component>
@@ -131,6 +226,10 @@
               <item name="GuessNumber" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GuessNumber" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -142,8 +241,10 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -156,10 +257,11 @@
       <recent name="" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="GuessNumber" />
+      <recent name="GenerateNumber" />
+      <recent name="GeneratorNumberRandom" />
       <recent name="VerifyTheNumberUserInput" />
       <recent name="VerifyB" />
-      <recent name="VerifyA" />
-      <recent name="CharacterCounter" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -175,66 +277,64 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="GuessNumber" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CharacterCounterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="All in GuessNumber" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GuessNumber" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CharacterCounterTest" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GuessNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GuessNumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GuessNumberTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifyATest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VerifyATest.should_be_four_when_all_same_figure_and_position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GuessNumber" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="VerifyATest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="METHOD_NAME" value="should_be_four_when_all_same_figure_and_position" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VerifyBTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="VerifyATest.should_be_zero_when_no_same_figure_and_position" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GuessNumber" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VerifyBTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VerifyTheNumberUserInputTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="GuessNumber" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="VerifyTheNumberUserInputTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="VerifyATest" />
+      <option name="METHOD_NAME" value="should_be_zero_when_no_same_figure_and_position" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.GuessNumberTest" />
+      <item itemvalue="JUnit.All in GuessNumber" />
+      <item itemvalue="JUnit.VerifyATest.should_be_four_when_all_same_figure_and_position" />
+      <item itemvalue="JUnit.VerifyATest.should_be_zero_when_no_same_figure_and_position" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.CharacterCounterTest" />
-      <item itemvalue="JUnit.VerifyATest" />
-      <item itemvalue="JUnit.VerifyBTest" />
-      <item itemvalue="JUnit.VerifyTheNumberUserInputTest" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.VerifyTheNumberUserInputTest" />
-        <item itemvalue="JUnit.VerifyBTest" />
-        <item itemvalue="JUnit.VerifyATest" />
-        <item itemvalue="JUnit.CharacterCounterTest" />
+        <item itemvalue="JUnit.All in GuessNumber" />
+        <item itemvalue="JUnit.GuessNumberTest" />
+        <item itemvalue="JUnit.VerifyATest.should_be_zero_when_no_same_figure_and_position" />
+        <item itemvalue="JUnit.VerifyATest.should_be_four_when_all_same_figure_and_position" />
       </list>
     </recent_temporary>
   </component>
@@ -252,35 +352,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VerifyATest - 2019.07.10 at 16h 45m 42s.xml">
-      <configuration name="VerifyATest" configurationId="JUnit" />
+    <history-entry file="All_in_GuessNumber - 2019.07.15 at 14h 09m 32s.xml">
+      <configuration name="All in GuessNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerifyATest - 2019.07.10 at 16h 49m 00s.xml">
-      <configuration name="VerifyATest" configurationId="JUnit" />
+    <history-entry file="VerifyATest_should_be_four_when_all_same_figure_and_position - 2019.07.15 at 14h 10m 33s.xml">
+      <configuration name="VerifyATest.should_be_four_when_all_same_figure_and_position" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerifyATest - 2019.07.10 at 16h 51m 13s.xml">
-      <configuration name="VerifyATest" configurationId="JUnit" />
+    <history-entry file="VerifyATest_should_be_zero_when_no_same_figure_and_position - 2019.07.15 at 14h 12m 01s.xml">
+      <configuration name="VerifyATest.should_be_zero_when_no_same_figure_and_position" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerifyBTest - 2019.07.10 at 16h 58m 31s.xml">
-      <configuration name="VerifyBTest" configurationId="JUnit" />
+    <history-entry file="All_in_GuessNumber - 2019.07.15 at 15h 20m 41s.xml">
+      <configuration name="All in GuessNumber" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerifyBTest - 2019.07.10 at 16h 59m 52s.xml">
-      <configuration name="VerifyBTest" configurationId="JUnit" />
+    <history-entry file="GuessNumberTest - 2019.07.16 at 09h 43m 12s.xml">
+      <configuration name="GuessNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerifyBTest - 2019.07.10 at 17h 00m 49s.xml">
-      <configuration name="VerifyBTest" configurationId="JUnit" />
+    <history-entry file="GuessNumberTest - 2019.07.16 at 09h 43m 45s.xml">
+      <configuration name="GuessNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerifyBTest - 2019.07.10 at 17h 01m 05s.xml">
-      <configuration name="VerifyBTest" configurationId="JUnit" />
+    <history-entry file="GuessNumberTest - 2019.07.16 at 09h 45m 29s.xml">
+      <configuration name="GuessNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerifyBTest - 2019.07.10 at 17h 02m 07s.xml">
-      <configuration name="VerifyBTest" configurationId="JUnit" />
+    <history-entry file="GuessNumberTest_should_be_four_digits_number - 2019.07.16 at 09h 46m 19s.xml">
+      <configuration name="GuessNumberTest.should_be_four_digits_number" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerifyTheNumberUserInputTest - 2019.07.10 at 17h 20m 17s.xml">
-      <configuration name="VerifyTheNumberUserInputTest" configurationId="JUnit" />
+    <history-entry file="GuessNumberTest - 2019.07.16 at 09h 46m 29s.xml">
+      <configuration name="GuessNumberTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="VerifyTheNumberUserInputTest - 2019.07.10 at 17h 22m 21s.xml">
-      <configuration name="VerifyTheNumberUserInputTest" configurationId="JUnit" />
+    <history-entry file="All_in_GuessNumber - 2019.07.16 at 14h 35m 18s.xml">
+      <configuration name="All in GuessNumber" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -291,16 +391,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19392812" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26208177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3290398" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Version Control" weight="0.3290398" />
+      <window_info anchor="bottom" id="Terminal" weight="0.31381732" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.035128806" />
+      <window_info anchor="bottom" id="Messages" weight="0.4028103" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3290398" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5081967" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39929742" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34192038" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.34894612" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -309,6 +409,7 @@
       <window_info anchor="right" id="Maven" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32961586" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -317,20 +418,25 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>9</line>
-          <properties />
-          <option name="timeStamp" value="7" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/VerifyA.java</url>
+          <line>2</line>
+          <properties class="VerifyA" method="caculatorA">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>14</line>
+          <url>file://$PROJECT_DIR$/src/VerifyA.java</url>
+          <line>4</line>
           <properties />
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/GuessNumber$GenerateNumberTest_should_be_four_unique_digits_number.ic" NAME="GenerateNumberTest.should_be_four_unique_digits_number Coverage Results" MODIFIED="1563160874787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GuessNumber.iml">
@@ -363,37 +469,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/GenerateNumberTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/VerifyATest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="84" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="84" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/VerifyBTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -404,10 +483,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VerifyA.java">
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GeneratorNumberRandom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/GeneratorNumberRandomTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -418,13 +510,136 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        <state relative-caret-position="195">
+          <caret line="13" column="42" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/jre/lib/rt.jar!/sun/misc/Launcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="230" selection-start-line="230" selection-end-line="230" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_211.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="1652" selection-start-line="1652" selection-end-line="1652" />
+          <folding>
+            <element signature="e#62860#62861#0" expanded="true" />
+            <element signature="e#62916#62917#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VerifyA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/VerifyBTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/GenerateNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GenerateNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/VerifyATest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="144">
+            <caret line="8" column="183" selection-start-line="8" selection-start-column="183" selection-end-line="8" selection-end-column="183" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/GuessNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#182#183#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InputNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/GuessNumberTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="23" column="53" selection-start-line="23" selection-start-column="53" selection-end-line="23" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1563241526211" expanded="true" signature="452:972" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/InputNumberMock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+          <folding>
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
         </state>
       </provider>
     </entry>
