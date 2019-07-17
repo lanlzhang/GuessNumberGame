@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class InputNumber {
+public class InputNumber implements InputNumberInterface {
 
     public String inputNumber(){
         Scanner keyboard = new Scanner(System.in);
@@ -8,8 +8,6 @@ public class InputNumber {
         String input = keyboard.nextLine();
         return input;
     }
-
-
 }
 
 

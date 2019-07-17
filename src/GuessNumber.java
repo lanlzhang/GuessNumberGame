@@ -1,8 +1,8 @@
 public class GuessNumber {
-    InputNumber InputNumber;
+    InputNumberInterface InputNumber;
 
     // constructor, same name as class name, no limitation for parameters and statement, and has no return and void, when call constructor, we must use new operator
-    public GuessNumber(InputNumber inputNumber) {
+    public GuessNumber(InputNumberInterface inputNumber) {
         InputNumber = inputNumber;
     }
 

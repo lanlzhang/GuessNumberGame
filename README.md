@@ -8,4 +8,5 @@ All the class which has the logic I add? Should not add unit test for the third-
 
 As cannot add unit test for some class, because some method in class need input through keyboard. So learn to use constructor, inheritance and some object-oriented programming skills.
 
-## refactor 
+## Interface
+extract inputNumber from inputNumber as a interface 
