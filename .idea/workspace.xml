@@ -323,8 +323,8 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="JUnit.All in GuessNumber" />
       <item itemvalue="JUnit.GuessNumberTest" />
+      <item itemvalue="JUnit.All in GuessNumber" />
       <item itemvalue="JUnit.VerifyATest.should_be_four_when_all_same_figure_and_position" />
       <item itemvalue="JUnit.VerifyATest.should_be_zero_when_no_same_figure_and_position" />
     </list>

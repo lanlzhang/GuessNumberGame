@@ -4,8 +4,8 @@ public class Main {
     public static void main(String[] args) {
 
         // generate a number randomly by system
-        System.out.println("The computer has generate a unique 4 digit number.\n"
-                + "You can try to guess the 4 digits number.\n");
+        System.out.println("The computer has generate a unique 4 digits number.\n"
+                + "Let's try to guess the 4 digits number.\n");
         GenerateNumber generateNumber = new GenerateNumber();
         int[] random=generateNumber.generateNumberBySystem();
 
